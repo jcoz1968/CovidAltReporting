@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidAltReporting.API", "CovidAltReporting.API\CovidAltReporting.API.csproj", "{D8BBB678-3848-4140-B2D8-F55F08A72967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidAltReporting.Models", "CovidAltReporting.Models\CovidAltReporting.Models.csproj", "{F579F76D-5331-414F-9AF4-C8338282FA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BBB678-3848-4140-B2D8-F55F08A72967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BBB678-3848-4140-B2D8-F55F08A72967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BBB678-3848-4140-B2D8-F55F08A72967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BBB678-3848-4140-B2D8-F55F08A72967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F579F76D-5331-414F-9AF4-C8338282FA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F579F76D-5331-414F-9AF4-C8338282FA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F579F76D-5331-414F-9AF4-C8338282FA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F579F76D-5331-414F-9AF4-C8338282FA87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3D8DAA4-A41D-4260-B1E0-7FB1C99B3EC2}
+	EndGlobalSection
+EndGlobal
